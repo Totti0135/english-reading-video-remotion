@@ -1,0 +1,41 @@
+{
+  "name": "english-reading-video-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone source-grounded English reading lesson video pipeline built with Remotion",
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "check:js": "node --check src/english-reading/model/exercise-contract.mjs && node --check src/english-reading/runtime/exercise-timeline.mjs && node --check scripts/validate-english-reading.mjs",
+    "typecheck:contracts": "tsc -p tests/english-reading/tsconfig.json",
+    "test": "npm run check:js && node --test tests/english-reading/*.test.mjs && npm run typecheck:contracts",
+    "validate:sample:source": "node scripts/validate-lesson-spec.mjs tmp/english-reading/all-about-bushfires/lesson.json --phase source",
+    "validate:sample:draft": "node scripts/validate-lesson-spec.mjs tmp/english-reading/all-about-bushfires/lesson.json --phase draft",
+    "validate:sample:timed": "node scripts/validate-lesson-spec.mjs tmp/english-reading/all-about-bushfires/lesson.json --phase timed --sync tmp/english-reading/all-about-bushfires/sync-map.json",
+    "validate:sample:props": "node scripts/validate-remotion-package.mjs tmp/english-reading/all-about-bushfires/remotion-props.json",
+    "validate:sample:contract": "node scripts/validate-english-reading.mjs tmp/english-reading/all-about-bushfires/lesson.json --kind lesson",
+    "validate:sample:package": "node scripts/validate-english-reading.mjs tmp/english-reading/all-about-bushfires/remotion-props.json --kind package --public-dir public",
+    "validate:sample": "npm run validate:sample:source && npm run validate:sample:draft && npm run validate:sample:timed && npm run validate:sample:props && npm run validate:sample:contract && npm run validate:sample:package",
+    "check": "npm run typecheck && npm test && npm run validate:sample && npm run check:composition",
+    "parse:source": "node scripts/parse-source-md.mjs",
+    "build:sync-map": "node scripts/build-sync-map.mjs",
+    "build:props": "node scripts/build-remotion-props.mjs",
+    "check:composition": "remotion compositions src/index.ts",
+    "render:sample:still": "remotion still src/index.ts EnglishReadingLesson out/english-reading/all-about-bushfires-title.png --frame=26 --props=tmp/english-reading/all-about-bushfires/remotion-props.json",
+    "render:sample": "remotion render src/index.ts EnglishReadingLesson out/english-reading/all-about-bushfires.mp4 --props=tmp/english-reading/all-about-bushfires/remotion-props.json",
+    "sync:claude": "node scripts/sync-to-claude-code.mjs",
+    "verify:claude": "node scripts/verify-claude-code-sync.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.542",
+    "@remotion/fonts": "4.0.542",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "4.0.542"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.2"
+  }
+}

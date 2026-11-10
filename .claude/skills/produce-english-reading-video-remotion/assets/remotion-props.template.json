@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "slug": "sample-reading",
+  "title": "Sample Reading",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 1800,
+  "visualProfile": {
+    "id": "english-reading-handdrawn-v1"
+  },
+  "lesson": {},
+  "timeline": {
+    "segments": [
+      {
+        "id": "01",
+        "kind": "reading-paragraph",
+        "startFrame": 0,
+        "endFrame": 1800,
+        "durationFrames": 1800,
+        "durationMs": 60000,
+        "audioDurationMs": 60000,
+        "audioSrc": "audio/english-reading/sample-reading/01.wav",
+        "cues": []
+      }
+    ]
+  },
+  "source": {
+    "lesson": "tmp/english-reading/sample-reading/lesson.json",
+    "syncMap": "tmp/english-reading/sample-reading/sync-map.json",
+    "audioDirectory": "public/audio/english-reading/sample-reading"
+  }
+}

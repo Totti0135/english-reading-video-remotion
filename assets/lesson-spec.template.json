@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "slug": "sample-reading",
+  "title": "Sample Reading",
+  "grade": "初中",
+  "narrationLanguage": "zh-CN",
+  "fps": 30,
+  "visualProfile": {
+    "id": "english-reading-handdrawn-v1"
+  },
+  "voice": {
+    "provider": "doubao",
+    "voiceId": "dayi",
+    "readingSpeedRatio": 0.88,
+    "questionSpeedRatio": 0.84
+  },
+  "source": {
+    "articleParagraphs": [],
+    "wordPower": [],
+    "languageTips": [],
+    "questions": [],
+    "notes": ""
+  },
+  "sentenceLessons": [],
+  "exerciseLessons": [],
+  "narrationSegments": []
+}

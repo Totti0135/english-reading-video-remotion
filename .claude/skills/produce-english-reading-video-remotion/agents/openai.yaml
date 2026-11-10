@@ -1,0 +1,5 @@
+interface:
+  display_name: "英语阅读精讲视频（Remotion）"
+  short_description: "先确认教学设计和文字稿，再生成可复现的 Remotion 精讲视频"
+  brand_color: "#1B4A7A"
+  default_prompt: "使用 $produce-english-reading-video-remotion 处理这份英语阅读图片或 Markdown：先和我确认教学流程、题目展示方式及完整文字稿，再继续配音、Remotion 制作与验证。"

@@ -1,0 +1,1651 @@
+{
+  "version": 1,
+  "slug": "all-about-bushfires",
+  "title": "All About Bushfires",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 32209,
+  "visualProfile": {
+    "id": "english-reading-handdrawn-v1"
+  },
+  "lesson": {
+    "version": 1,
+    "slug": "all-about-bushfires",
+    "title": "All About Bushfires",
+    "grade": "六年级",
+    "narrationLanguage": "zh-CN",
+    "fps": 30,
+    "visualProfile": {
+      "id": "english-reading-handdrawn-v1"
+    },
+    "voice": {
+      "provider": "edge-tts",
+      "voiceId": "zh-CN-XiaoxiaoNeural",
+      "requestedProfile": "doubao/dayi（Volcengine 自 2026-08-27 无权限；TTS 前再探测，若恢复改用 dayi）",
+      "readingSpeedRatio": 0.88,
+      "questionSpeedRatio": 0.84
+    },
+    "sourceInput": {
+      "kind": "markdown",
+      "path": "tmp/english-reading/all-about-bushfires/source.md"
+    },
+    "source": {
+      "articleParagraphs": [
+        {
+          "id": "P01",
+          "text": "Bushfires are fires that burn in the bush. These fires are common in hot and dry places, like Australia, Africa and parts of the US."
+        },
+        {
+          "id": "P02",
+          "text": "Bushfires can start naturally, such as when lightning strikes dry plants. Believe it or not, bushfires are part of a natural cycle."
+        },
+        {
+          "id": "P03",
+          "text": "When a bushfire starts, it burns grass and kills insects that are bad for trees. It makes more space for new plants to grow. It makes more space for sunlight to get to the ground too. This is good for animals because they can find new food and make new homes."
+        },
+        {
+          "id": "P04",
+          "text": "Sadly, bushfires can be started by people. For example, a bushfire can start when someone hasn't correctly put out a campfire."
+        },
+        {
+          "id": "P05",
+          "text": "Climate change doesn't start bushfires, but it makes them larger. That's because hotter summers and stronger winds make it easy for fires to get started and to spread. This makes it harder for firefighters to put out these fires."
+        }
+      ],
+      "wordPower": [
+        {
+          "term": "burn /bɜːn/",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "in the bush",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "part /pɑːt/",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "naturally /ˈnætʃrəli/",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "believe it or not",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "natural cycle",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "kill /kɪl/",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "space /speɪs/ [U] [C]",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "sadly /ˈsædli/",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "for example",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "put out (a campfire)",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "climate change",
+          "partOfSpeech": "",
+          "meaning": ""
+        },
+        {
+          "term": "spread /spred/",
+          "partOfSpeech": "",
+          "meaning": ""
+        }
+      ],
+      "languageTips": [],
+      "questions": [
+        {
+          "id": "Q01",
+          "type": "fill-blank",
+          "prompt": "Bushfires are common in Australia because it is hot and dry.",
+          "options": [
+            {
+              "label": "A",
+              "text": "True"
+            },
+            {
+              "label": "B",
+              "text": "False"
+            }
+          ],
+          "suppliedAnswer": "A",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P01",
+          "suppliedHighlight": "These fires are common in hot and dry places, like Australia, Africa and parts of the US."
+        },
+        {
+          "id": "Q02",
+          "type": "fill-blank",
+          "prompt": "Bushfires are always bad for trees and animals because they burn everything.",
+          "options": [
+            {
+              "label": "A",
+              "text": "True"
+            },
+            {
+              "label": "B",
+              "text": "False"
+            }
+          ],
+          "suppliedAnswer": "B",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P03",
+          "suppliedHighlight": "It makes more space for new plants to grow."
+        },
+        {
+          "id": "Q03",
+          "type": "fill-blank",
+          "prompt": "Bushfires can be started by people and climate change.",
+          "options": [
+            {
+              "label": "A",
+              "text": "True"
+            },
+            {
+              "label": "B",
+              "text": "False"
+            }
+          ],
+          "suppliedAnswer": "B",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P05",
+          "suppliedHighlight": "Climate change doesn't start bushfires, but it makes them larger."
+        },
+        {
+          "id": "Q04",
+          "type": "fill-blank",
+          "prompt": "List one natural way that bushfires can start.",
+          "options": [],
+          "suppliedAnswer": "Bushfires can start when lightning strikes dry plants.",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P02",
+          "suppliedHighlight": "Bushfires can start naturally, such as when lightning strikes dry plants."
+        },
+        {
+          "id": "Q05",
+          "type": "fill-blank",
+          "prompt": "What makes it easy for bushfires to get started and to spread?",
+          "options": [],
+          "suppliedAnswer": "Hotter summers and stronger winds make it easy for fires to get started and to spread.",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P05",
+          "suppliedHighlight": "hotter summers and stronger winds make it easy for fires to get started and to spread"
+        },
+        {
+          "id": "Q06",
+          "type": "fill-blank",
+          "prompt": "Why are bushfires part of a natural cycle?",
+          "options": [],
+          "suppliedAnswer": "Because bushfires burn grass and kill insects that are bad for trees, and they make more space and sunlight for new plants, which is good for animals.",
+          "suppliedExplanation": "",
+          "suppliedEvidenceParagraphId": "P03",
+          "suppliedHighlight": "it burns grass and kills insects that are bad for trees. It makes more space for new plants to grow."
+        }
+      ],
+      "notes": "- 来源：用户提供的 Markdown 文件 `/Users/totti/Desktop/a.md`（南模初中六年级英语 Starter 阅读练习(1)），原样转录，无 OCR 疑难。\n- 原文含 \"Did you know?\" 小节但印刷内容为空，不作为教学内容。\n- Notes 词汇表按印刷原样保留（词目含音标；源卷未提供词性与中文释义，字段留空，释义在讲解配音中给出）。\n- 板块 I「请根据本版内容，判断正误。」：印刷无选项；按判断题惯例建模为 A. True / B. False 两张选项卡（待 Gate 1 确认）。\n- 板块 II「请根据本版内容，回答问题。」：开放简答题，无选项；参考答案由人工从原文独立核验。\n- 全部答案已对照原文核验：Q01=A（P01）、Q02=B（P03）、Q03=B（P05，气候变化不引发山火）、Q04/Q05/Q06 证据见对应段落。\n- 题干保留印刷英文原文；印刷的题号（1./2./3.）由渲染器的序号徽章呈现，不重复写入题干。"
+    },
+    "sentenceLessons": [
+      {
+        "id": "P01-S01",
+        "paragraphId": "P01",
+        "sourceText": "Bushfires are fires that burn in the bush.",
+        "translation": "山火就是在丛林里燃烧的火。",
+        "grammarPoints": [
+          "that burn in the bush 是 that 引导的定语从句，修饰 fires"
+        ],
+        "fixedPhrases": [
+          "in the bush 在丛林里",
+          "bush + fire → bushfire 丛林野火（合成词）"
+        ],
+        "newWords": [
+          "burn /bɜːn/ v. 燃烧"
+        ],
+        "narrationText": "开始朗读。Bushfires are fires that burn in the bush. 重点讲解。bushfire 是一个合成词，bush 丛林加上 fire 火，指丛林的野火。句子里 that burn in the bush 是 that 引导的定语从句，修饰名词 fires，意思是“在丛林里燃烧的火”，这是英文里下定义的常用句型。burn 燃烧。in the bush 在丛林里。完整翻译。山火就是在丛林里燃烧的火。"
+      },
+      {
+        "id": "P01-S02",
+        "paragraphId": "P01",
+        "sourceText": "These fires are common in hot and dry places, like Australia, Africa and parts of the US.",
+        "translation": "这类火在炎热干燥的地区很常见，比如澳大利亚、非洲和美国的部分地区。",
+        "grammarPoints": [
+          "like + 名词 = such as，表示“比如”，用于举例"
+        ],
+        "fixedPhrases": [
+          "be common in… 在……很常见",
+          "parts of the US 美国的部分地区"
+        ],
+        "newWords": [],
+        "narrationText": "开始朗读。These fires are common in hot and dry places, like Australia, Africa and parts of the US. 重点讲解。be common in 表示在某个地方很常见。hot and dry 是两个形容词并列，炎热又干燥。like 在这里相当于 such as，用来举例，意思是比如。parts of the US 指美国的部分地区。完整翻译。这类火在炎热干燥的地区很常见，比如澳大利亚、非洲和美国的部分地区。"
+      },
+      {
+        "id": "P02-S01",
+        "paragraphId": "P02",
+        "sourceText": "Bushfires can start naturally, such as when lightning strikes dry plants.",
+        "translation": "山火可以自然发生，比如当闪电击中干燥的植物时。",
+        "grammarPoints": [
+          "when lightning strikes dry plants 是 when 引导的时间状语从句"
+        ],
+        "fixedPhrases": [
+          "such as 比如，用于举例"
+        ],
+        "newWords": [
+          "naturally /ˈnætʃrəli/ adv. 自然地",
+          "lightning 闪电；strike 击中"
+        ],
+        "narrationText": "开始朗读。Bushfires can start naturally, such as when lightning strikes dry plants. 重点讲解。start 在这里表示发生、开始。naturally 是副词，自然地。such as 比如，引出具体的例子。when lightning strikes dry plants 是 when 引导的时间状语从句，当闪电击中干燥的植物时。lightning 闪电，strike 击中。完整翻译。山火可以自然发生，比如当闪电击中干燥的植物时。"
+      },
+      {
+        "id": "P02-S02",
+        "paragraphId": "P02",
+        "sourceText": "Believe it or not, bushfires are part of a natural cycle.",
+        "translation": "信不信由你，山火是自然循环的一部分。",
+        "grammarPoints": [],
+        "fixedPhrases": [
+          "Believe it or not 信不信由你",
+          "be part of… 是……的一部分",
+          "a natural cycle 自然循环"
+        ],
+        "newWords": [
+          "part /pɑːt/ n. 部分"
+        ],
+        "narrationText": "开始朗读。Believe it or not, bushfires are part of a natural cycle. 重点讲解。Believe it or not 是固定的口语表达，信不信由你，常放在句首，引出令人意外的事实。a natural cycle 一个自然循环。be part of something 是某物的一部分，这里说山火是自然循环的一部分。完整翻译。信不信由你，山火是自然循环的一部分。"
+      },
+      {
+        "id": "P03-S01",
+        "paragraphId": "P03",
+        "sourceText": "When a bushfire starts, it burns grass and kills insects that are bad for trees.",
+        "translation": "当山火发生时，它会烧掉杂草，杀死对树木有害的昆虫。",
+        "grammarPoints": [
+          "When a bushfire starts 时间状语从句前置",
+          "that are bad for trees 定语从句修饰 insects"
+        ],
+        "fixedPhrases": [
+          "be bad for 对……有害",
+          "be good for 对……有好处（反义）"
+        ],
+        "newWords": [
+          "kill /kɪl/ v. 杀死"
+        ],
+        "narrationText": "开始朗读。When a bushfire starts, it burns grass and kills insects that are bad for trees. 重点讲解。前半句 When a bushfire starts 是 when 引导的时间状语从句。主句里 burns 和 kills 两个动词并列，烧掉杂草、杀死昆虫。that are bad for trees 是定语从句，修饰 insects，对树木有害的昆虫。be bad for 对什么有害，它的反义短语是 be good for 对什么有好处，这对短语在后面的判断题里非常关键。完整翻译。当山火发生时，它会烧掉杂草，杀死对树木有害的昆虫。"
+      },
+      {
+        "id": "P03-S02",
+        "paragraphId": "P03",
+        "sourceText": "It makes more space for new plants to grow.",
+        "translation": "它为新植物的生长腾出更多空间。",
+        "grammarPoints": [],
+        "fixedPhrases": [
+          "make more space for… 为……腾出更多空间"
+        ],
+        "newWords": [
+          "space /speɪs/ n. 空间；空地"
+        ],
+        "narrationText": "开始朗读。It makes more space for new plants to grow. 重点讲解。make more space for something 是固定搭配，为某物腾出更多空间。space 空间这个词通常是不可数名词，表示抽象的空间；它也可以作可数名词，表示一块空地，卷面笔记里特别标注了这两种用法。grow 生长。完整翻译。它为新植物的生长腾出更多空间。"
+      },
+      {
+        "id": "P03-S03",
+        "paragraphId": "P03",
+        "sourceText": "It makes more space for sunlight to get to the ground too.",
+        "translation": "它也让更多阳光照到地面。",
+        "grammarPoints": [
+          "too 放在句末表示“也”"
+        ],
+        "fixedPhrases": [
+          "make more space for… 句型迁移"
+        ],
+        "newWords": [],
+        "narrationText": "开始朗读。It makes more space for sunlight to get to the ground too. 重点讲解。这句重复了上一句的句型 make more space for，这次说的是让更多阳光照到地面。sunlight 阳光。too 放在句末，表示也。完整翻译。它也让更多阳光照到地面。"
+      },
+      {
+        "id": "P03-S04",
+        "paragraphId": "P03",
+        "sourceText": "This is good for animals because they can find new food and make new homes.",
+        "translation": "这对动物有好处，因为它们可以找到新的食物、建立新的家园。",
+        "grammarPoints": [
+          "because 引导原因状语从句",
+          "find… and make… 并列动词短语"
+        ],
+        "fixedPhrases": [
+          "be good for 对……有好处"
+        ],
+        "newWords": [],
+        "narrationText": "开始朗读。This is good for animals because they can find new food and make new homes. 重点讲解。because 引导原因从句，解释为什么对动物有好处。从句里 can find 和 make 两个动词并列，找到新的食物、建立新的家园。be good for 对什么有好处，正好和前面的 be bad for 形成对比。完整翻译。这对动物有好处，因为它们可以找到新的食物、建立新的家园。"
+      },
+      {
+        "id": "P04-S01",
+        "paragraphId": "P04",
+        "sourceText": "Sadly, bushfires can be started by people.",
+        "translation": "遗憾的是，山火也可能由人引发。",
+        "grammarPoints": [
+          "can be started by… 情态动词被动语态（can + be + 过去分词）"
+        ],
+        "fixedPhrases": [
+          "be started by… 由……引发"
+        ],
+        "newWords": [
+          "sadly /ˈsædli/ adv. 遗憾的是"
+        ],
+        "narrationText": "开始朗读。Sadly, bushfires can be started by people. 重点讲解。本课的语法重点来了。can be started by people 是含有情态动词的被动语态，结构是 can 加 be 加过去分词 started，by 后面引出动作的执行者，意思是可能被人们引发。对比主动句 people can start bushfires 人们可能引发山火，被动句的重点落在山火身上。Sadly 是评注性副词，遗憾的是，放在句首表达作者的态度。完整翻译。遗憾的是，山火也可能由人引发。"
+      },
+      {
+        "id": "P04-S02",
+        "paragraphId": "P04",
+        "sourceText": "For example, a bushfire can start when someone hasn't correctly put out a campfire.",
+        "translation": "例如，当有人没有正确熄灭篝火时，就可能引发一场山火。",
+        "grammarPoints": [
+          "hasn't correctly put out 现在完成时否定（has not + 副词 + 过去分词）"
+        ],
+        "fixedPhrases": [
+          "for example 例如",
+          "put out 扑灭（代词放中间：put it out）"
+        ],
+        "newWords": [
+          "campfire n. 营火；篝火"
+        ],
+        "narrationText": "开始朗读。For example, a bushfire can start when someone hasn't correctly put out a campfire. 重点讲解。For example 固定搭配，例如，引出具体的例子。put out 是重点短语动词，扑灭，代词作宾语时要放在中间，说 put it out。campfire 营火、篝火。hasn't correctly put out 是现在完成时的否定形式，has not 加副词 correctly 再加过去分词 put，表示还没有正确地扑灭。完整翻译。例如，当有人没有正确熄灭篝火时，就可能引发一场山火。"
+      },
+      {
+        "id": "P05-S01",
+        "paragraphId": "P05",
+        "sourceText": "Climate change doesn't start bushfires, but it makes them larger.",
+        "translation": "气候变化不会引发山火，但会使山火变得更大。",
+        "grammarPoints": [
+          "make + 宾语 + 形容词比较级（makes them larger）"
+        ],
+        "fixedPhrases": [
+          "climate change 气候变化",
+          "not…but… 不……而……"
+        ],
+        "newWords": [],
+        "narrationText": "开始朗读。Climate change doesn't start bushfires, but it makes them larger. 重点讲解。这句是否定加转折的结构。doesn't start 不会引发，but 但是，makes them larger 让它们变得更大。climate change 气候变化。make 加宾语 them 再加比较级 larger，使它们更大，这是 make 加宾语加形容词的用法。完整翻译。气候变化不会引发山火，但会使山火变得更大。"
+      },
+      {
+        "id": "P05-S02",
+        "paragraphId": "P05",
+        "sourceText": "That's because hotter summers and stronger winds make it easy for fires to get started and to spread.",
+        "translation": "那是因为更热的夏天和更强的风使山火容易发生并蔓延。",
+        "grammarPoints": [
+          "make it + adj. + for sb/sth + to do 形式宾语句型"
+        ],
+        "fixedPhrases": [
+          "That's because… 那是因为……",
+          "hotter summers 更热的夏天；stronger winds 更强的风"
+        ],
+        "newWords": [
+          "spread /spred/ v. 蔓延；扩散"
+        ],
+        "narrationText": "开始朗读。That's because hotter summers and stronger winds make it easy for fires to get started and to spread. 重点讲解。本课的句型重点。make it easy for fires to get started and to spread，这里的 it 是形式宾语，真正的内容是后面的不定式 to get started and to spread，easy 说明难易程度，for fires 表示动作的所属，意思是让山火容易发生并且蔓延。That's because 那是因为。hotter summers 更热的夏天，stronger winds 更强的风，两组比较级并列作主语。spread 蔓延、扩散，它的过去式还是 spread。完整翻译。那是因为更热的夏天和更强的风使山火容易发生并蔓延。"
+      },
+      {
+        "id": "P05-S03",
+        "paragraphId": "P05",
+        "sourceText": "This makes it harder for firefighters to put out these fires.",
+        "translation": "这让消防员更难扑灭这些山火。",
+        "grammarPoints": [
+          "make it harder for… to do 句型迁移（easy → harder）"
+        ],
+        "fixedPhrases": [
+          "put out 扑灭（再次出现）"
+        ],
+        "newWords": [
+          "firefighter n. 消防员（fire + fighter）"
+        ],
+        "narrationText": "开始朗读。This makes it harder for firefighters to put out these fires. 重点讲解。这句把上一句的句型又用了一遍，easy 换成了比较级 harder，变得更难。firefighter 消防员，fire 加 fighter，和火战斗的人。put out 扑灭，这个词组再次出现，说明它是高频考点。完整翻译。这让消防员更难扑灭这些山火。"
+      }
+    ],
+    "exerciseLessons": [
+      {
+        "questionId": "Q01",
+        "answer": "A",
+        "theme": "细节判断题",
+        "explanation": "定位词 Australia：原文第一段把澳大利亚列进炎热干燥地区的举例，题干与原文一致，选 True。",
+        "evidenceParagraphId": "P01",
+        "evidenceHighlights": [
+          "These fires are common in hot and dry places, like Australia, Africa and parts of the US."
+        ],
+        "narrationText": "第一题现在看题目。Bushfires are common in Australia because it is hot and dry. 题干意思是：山火在澳大利亚很常见，因为那里炎热干燥。判断题只有两个选项：A True，表示说法正确；B False，表示说法错误。正确答案是A。定位词是 Australia 澳大利亚。原文第一段说，这类火在炎热干燥的地区很常见，并且明确把澳大利亚列进了举例里，题干的说法与原文完全一致，所以是 True。第一题原文位置。These fires are common in hot and dry places, like Australia, Africa and parts of the US. 依据句已用黄色标出，Australia 就在炎热干燥地区的列举当中，第一题判断为 True。",
+        "presentationMode": "option-cards",
+        "presentationNotes": "判断题：题目态显示题干与 A True / B False 两张中性选项卡；答案态只高亮正确卡；证据态回到原文段落高亮依据句。"
+      },
+      {
+        "questionId": "Q02",
+        "answer": "B",
+        "theme": "推理判断题",
+        "explanation": "警惕绝对词 always / everything：原文第三段说明山火对自然有利，题干说法错误，选 False。",
+        "evidenceParagraphId": "P03",
+        "evidenceHighlights": [
+          "It makes more space for new plants to grow.",
+          "This is good for animals because they can find new food and make new homes."
+        ],
+        "narrationText": "第二题现在看题目。Bushfires are always bad for trees and animals because they burn everything. 题干意思是：山火对树木和动物总是有害的，因为它们烧毁一切。正确答案是B。做判断题要特别警惕 always 总是、everything 一切，这类绝对化的用词。原文第三段告诉我们，山火会烧掉杂草、杀死对树木有害的昆虫，为新植物腾出更多空间，也让阳光照到地面，这对动物有好处。可见山火并不是总在烧毁一切，它对自然也有有利的一面，题干说法错误，选 False。第二题原文位置。It makes more space for new plants to grow. This is good for animals because they can find new food and make new homes. 两处依据句都用黄色标出，山火对自然有利的一面清清楚楚，所以第二题是 False。",
+        "presentationMode": "option-cards",
+        "presentationNotes": "判断题：题目态显示题干与 A True / B False 两张中性选项卡；答案态只高亮正确卡；证据态回到原文段落双高亮两处依据句。"
+      },
+      {
+        "questionId": "Q03",
+        "answer": "B",
+        "theme": "细节判断题",
+        "explanation": "拆半核对：people 一半有原文支持；climate change 一半与第五段矛盾，并列表述一错即 False。",
+        "evidenceParagraphId": "P05",
+        "evidenceHighlights": [
+          "Climate change doesn't start bushfires, but it makes them larger."
+        ],
+        "narrationText": "第三题现在看题目。Bushfires can be started by people and climate change. 题干意思是：山火可能由人和气候变化引发。正确答案是B。这道题要把题干拆成两半来核对。前一半，can be started by people 人们可能引发山火，原文第四段有原话支持，这一半是对的。后一半，climate change 气候变化引发山火，原文第五段明确告诉我们，气候变化不会引发山火，只会让山火变得更大。并列表述只要有一半不符合原文，整句就要判为 False，所以第三题选 B。第三题原文位置。Climate change doesn't start bushfires, but it makes them larger. 依据句已用黄色标出，气候变化不引发山火，第三题是 False。",
+        "presentationMode": "option-cards",
+        "presentationNotes": "判断题：题目态显示题干与 A True / B False 两张中性选项卡；答案态只高亮正确卡；证据态回到原文段落高亮依据句。"
+      },
+      {
+        "questionId": "Q04",
+        "answer": "Bushfires can start when lightning strikes dry plants.",
+        "theme": "细节理解题",
+        "explanation": "定位 naturally → 第二段首句，such as 后的例子 when lightning strikes dry plants 即答案，用完整句子作答。",
+        "evidenceParagraphId": "P02",
+        "evidenceHighlights": [
+          "Bushfires can start naturally, such as when lightning strikes dry plants."
+        ],
+        "narrationText": "第四题现在看题目。List one natural way that bushfires can start. 题干意思是：请列举一种山火自然发生的方式。这是一道简答题，没有选项，请你先想一想：山火会怎样自然发生？参考答案是：Bushfires can start when lightning strikes dry plants. 山火可以在闪电击中干燥植物的时候发生。定位词是 natural 自然的。回到第二段第一句，such as 后面引出的例子 when lightning strikes dry plants，当闪电击中干燥的植物，就是题目要找的答案。简答题要用完整的英文句子作答，把 when 从句包含进去。第四题原文位置。Bushfires can start naturally, such as when lightning strikes dry plants. 依据句已用黄色标出，such as 之后的例子就是本题的答案。",
+        "presentationMode": "short-answer",
+        "presentationNotes": "简答题：题目态显示题干与作答思考区，不出现答案；答案态展示英文参考答案句与中文讲解；证据态回到原文段落高亮依据句。"
+      },
+      {
+        "questionId": "Q05",
+        "answer": "Hotter summers and stronger winds make it easy for fires to get started and to spread.",
+        "theme": "细节理解题",
+        "explanation": "题干与第五段第二句几乎相同，答案是句首的 hotter summers and stronger winds，注意用比较级。",
+        "evidenceParagraphId": "P05",
+        "evidenceHighlights": [
+          "hotter summers and stronger winds make it easy for fires to get started and to spread"
+        ],
+        "narrationText": "第五题现在看题目。What makes it easy for bushfires to get started and to spread? 题干意思是：是什么让山火容易发生并蔓延？参考答案是：Hotter summers and stronger winds make it easy for fires to get started and to spread. 更热的夏天和更强的风，使山火容易发生并蔓延。这道题定位非常直接：题干里的 get started and to spread，和原文第五段第二句几乎一模一样。答案就是这句话开头的原因部分，更热的夏天和更强的风。回答时注意用 hotter 和 stronger 这两个比较级。第五题原文位置。That's because hotter summers and stronger winds make it easy for fires to get started and to spread. 依据句已用黄色标出，答案就是这一句的主语。",
+        "presentationMode": "short-answer",
+        "presentationNotes": "简答题：题目态显示题干与作答思考区；答案态展示英文参考答案句与中文讲解；证据态回到原文段落高亮依据句。"
+      },
+      {
+        "questionId": "Q06",
+        "answer": "Because bushfires burn grass and kill insects that are bad for trees, and make more space and sunlight for new plants, which is good for animals.",
+        "theme": "归纳理解题",
+        "explanation": "归纳第三段因果链：烧害虫 → 腾空间和阳光 → 新植物生长 → 动物受益，用 Because 串联回答。",
+        "evidenceParagraphId": "P03",
+        "evidenceHighlights": [
+          "it burns grass and kills insects that are bad for trees. It makes more space for new plants to grow.",
+          "This is good for animals because they can find new food and make new homes."
+        ],
+        "narrationText": "第六题现在看题目。Why are bushfires part of a natural cycle? 题干意思是：为什么说山火是自然循环的一部分？参考答案是：Because bushfires burn grass and kill insects that are bad for trees, and make more space and sunlight for new plants, which is good for animals. 因为山火烧掉杂草、杀死对树木有害的昆虫，并为新植物腾出空间和阳光，这对动物有好处。这是一道归纳题，答案不能从某一句话里直接抄到，要把第三段的因果链串起来：山火烧掉杂草、杀死害虫，腾出更多空间和阳光，新植物得以生长，动物也能找到新的食物和家园。回答时用 Because 开头，把这条因果链完整说出来。第六题原文位置。When a bushfire starts, it burns grass and kills insects that are bad for trees. It makes more space for new plants to grow. This is good for animals because they can find new food and make new homes. 依据句已用黄色标出，连起来就是山火属于自然循环的完整原因。",
+        "presentationMode": "short-answer",
+        "presentationNotes": "简答题：题目态显示题干与作答思考区；答案态展示英文参考答案句与中文讲解；证据态回到原文段落双高亮依据句。"
+      }
+    ],
+    "narrationSegments": [
+      {
+        "id": "00",
+        "kind": "reading-intro",
+        "text": "课程标题。今天我们精读一篇科普说明文，All About Bushfires，认识丛林山火：它是什么、从哪里来、对自然有什么好处，以及气候变化带来的影响。任务说明。我们先逐句精读五个段落，学习十三个词汇和短语，重点掌握被动语态 can be started by 和 make it easy for fires to get started 这样的句型，最后完成三道判断题和三道简答题。文章结构。第一段是山火的定义和常见地区。第二段讲山火会自然发生，是自然循环的一部分。第三段讲山火对自然的三个好处。第四段讲山火也可能由人引发。第五段讲气候变化让山火更大、更难扑灭。下面开始逐句朗读和精讲。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "00-title",
+            "kind": "title-card",
+            "refId": "lesson",
+            "spokenCue": "课程标题"
+          },
+          {
+            "id": "00-task",
+            "kind": "task-overview",
+            "refId": "lesson",
+            "spokenCue": "任务说明"
+          },
+          {
+            "id": "00-structure",
+            "kind": "structure-overview",
+            "refId": "lesson",
+            "spokenCue": "文章结构"
+          }
+        ],
+        "actualDurationMs": 61608
+      },
+      {
+        "id": "01",
+        "kind": "reading-paragraph",
+        "text": "开始朗读。Bushfires are fires that burn in the bush. 重点讲解。bushfire 是一个合成词，bush 丛林加上 fire 火，指丛林的野火。句子里 that burn in the bush 是 that 引导的定语从句，修饰名词 fires，意思是“在丛林里燃烧的火”，这是英文里下定义的常用句型。burn 燃烧。in the bush 在丛林里。完整翻译。山火就是在丛林里燃烧的火。开始朗读。These fires are common in hot and dry places, like Australia, Africa and parts of the US. 重点讲解。be common in 表示在某个地方很常见。hot and dry 是两个形容词并列，炎热又干燥。like 在这里相当于 such as，用来举例，意思是比如。parts of the US 指美国的部分地区。完整翻译。这类火在炎热干燥的地区很常见，比如澳大利亚、非洲和美国的部分地区。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "P01-S01-reading",
+            "kind": "sentence",
+            "refId": "P01-S01",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P01-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P01-S01",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P01-S01-translation",
+            "kind": "translation",
+            "refId": "P01-S01",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P01-S02-reading",
+            "kind": "sentence",
+            "refId": "P01-S02",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P01-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P01-S02",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P01-S02-translation",
+            "kind": "translation",
+            "refId": "P01-S02",
+            "spokenCue": "完整翻译"
+          }
+        ],
+        "actualDurationMs": 75456
+      },
+      {
+        "id": "02",
+        "kind": "reading-paragraph",
+        "text": "开始朗读。Bushfires can start naturally, such as when lightning strikes dry plants. 重点讲解。start 在这里表示发生、开始。naturally 是副词，自然地。such as 比如，引出具体的例子。when lightning strikes dry plants 是 when 引导的时间状语从句，当闪电击中干燥的植物时。lightning 闪电，strike 击中。完整翻译。山火可以自然发生，比如当闪电击中干燥的植物时。开始朗读。Believe it or not, bushfires are part of a natural cycle. 重点讲解。Believe it or not 是固定的口语表达，信不信由你，常放在句首，引出令人意外的事实。a natural cycle 一个自然循环。be part of something 是某物的一部分，这里说山火是自然循环的一部分。完整翻译。信不信由你，山火是自然循环的一部分。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "P02-S01-reading",
+            "kind": "sentence",
+            "refId": "P02-S01",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P02-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P02-S01",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P02-S01-translation",
+            "kind": "translation",
+            "refId": "P02-S01",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P02-S02-reading",
+            "kind": "sentence",
+            "refId": "P02-S02",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P02-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P02-S02",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P02-S02-translation",
+            "kind": "translation",
+            "refId": "P02-S02",
+            "spokenCue": "完整翻译"
+          }
+        ],
+        "actualDurationMs": 72792
+      },
+      {
+        "id": "03",
+        "kind": "reading-paragraph",
+        "text": "开始朗读。When a bushfire starts, it burns grass and kills insects that are bad for trees. 重点讲解。前半句 When a bushfire starts 是 when 引导的时间状语从句。主句里 burns 和 kills 两个动词并列，烧掉杂草、杀死昆虫。that are bad for trees 是定语从句，修饰 insects，对树木有害的昆虫。be bad for 对什么有害，它的反义短语是 be good for 对什么有好处，这对短语在后面的判断题里非常关键。完整翻译。当山火发生时，它会烧掉杂草，杀死对树木有害的昆虫。开始朗读。It makes more space for new plants to grow. 重点讲解。make more space for something 是固定搭配，为某物腾出更多空间。space 空间这个词通常是不可数名词，表示抽象的空间；它也可以作可数名词，表示一块空地，卷面笔记里特别标注了这两种用法。grow 生长。完整翻译。它为新植物的生长腾出更多空间。开始朗读。It makes more space for sunlight to get to the ground too. 重点讲解。这句重复了上一句的句型 make more space for，这次说的是让更多阳光照到地面。sunlight 阳光。too 放在句末，表示也。完整翻译。它也让更多阳光照到地面。开始朗读。This is good for animals because they can find new food and make new homes. 重点讲解。because 引导原因从句，解释为什么对动物有好处。从句里 can find 和 make 两个动词并列，找到新的食物、建立新的家园。be good for 对什么有好处，正好和前面的 be bad for 形成对比。完整翻译。这对动物有好处，因为它们可以找到新的食物、建立新的家园。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "P03-S01-reading",
+            "kind": "sentence",
+            "refId": "P03-S01",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P03-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S01",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P03-S01-translation",
+            "kind": "translation",
+            "refId": "P03-S01",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P03-S02-reading",
+            "kind": "sentence",
+            "refId": "P03-S02",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P03-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S02",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P03-S02-translation",
+            "kind": "translation",
+            "refId": "P03-S02",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P03-S03-reading",
+            "kind": "sentence",
+            "refId": "P03-S03",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P03-S03-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S03",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P03-S03-translation",
+            "kind": "translation",
+            "refId": "P03-S03",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P03-S04-reading",
+            "kind": "sentence",
+            "refId": "P03-S04",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P03-S04-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S04",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P03-S04-translation",
+            "kind": "translation",
+            "refId": "P03-S04",
+            "spokenCue": "完整翻译"
+          }
+        ],
+        "actualDurationMs": 144048
+      },
+      {
+        "id": "04",
+        "kind": "reading-paragraph",
+        "text": "开始朗读。Sadly, bushfires can be started by people. 重点讲解。本课的语法重点来了。can be started by people 是含有情态动词的被动语态，结构是 can 加 be 加过去分词 started，by 后面引出动作的执行者，意思是可能被人们引发。对比主动句 people can start bushfires 人们可能引发山火，被动句的重点落在山火身上。Sadly 是评注性副词，遗憾的是，放在句首表达作者的态度。完整翻译。遗憾的是，山火也可能由人引发。开始朗读。For example, a bushfire can start when someone hasn't correctly put out a campfire. 重点讲解。For example 固定搭配，例如，引出具体的例子。put out 是重点短语动词，扑灭，代词作宾语时要放在中间，说 put it out。campfire 营火、篝火。hasn't correctly put out 是现在完成时的否定形式，has not 加副词 correctly 再加过去分词 put，表示还没有正确地扑灭。完整翻译。例如，当有人没有正确熄灭篝火时，就可能引发一场山火。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "P04-S01-reading",
+            "kind": "sentence",
+            "refId": "P04-S01",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P04-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P04-S01",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P04-S01-translation",
+            "kind": "translation",
+            "refId": "P04-S01",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P04-S02-reading",
+            "kind": "sentence",
+            "refId": "P04-S02",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P04-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P04-S02",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P04-S02-translation",
+            "kind": "translation",
+            "refId": "P04-S02",
+            "spokenCue": "完整翻译",
+            "asrMatchText": "例如，当有人没有正确熄灭"
+          }
+        ],
+        "actualDurationMs": 93528
+      },
+      {
+        "id": "05",
+        "kind": "reading-paragraph",
+        "text": "开始朗读。Climate change doesn't start bushfires, but it makes them larger. 重点讲解。这句是否定加转折的结构。doesn't start 不会引发，but 但是，makes them larger 让它们变得更大。climate change 气候变化。make 加宾语 them 再加比较级 larger，使它们更大，这是 make 加宾语加形容词的用法。完整翻译。气候变化不会引发山火，但会使山火变得更大。开始朗读。That's because hotter summers and stronger winds make it easy for fires to get started and to spread. 重点讲解。本课的句型重点。make it easy for fires to get started and to spread，这里的 it 是形式宾语，真正的内容是后面的不定式 to get started and to spread，easy 说明难易程度，for fires 表示动作的所属，意思是让山火容易发生并且蔓延。That's because 那是因为。hotter summers 更热的夏天，stronger winds 更强的风，两组比较级并列作主语。spread 蔓延、扩散，它的过去式还是 spread。完整翻译。那是因为更热的夏天和更强的风使山火容易发生并蔓延。开始朗读。This makes it harder for firefighters to put out these fires. 重点讲解。这句把上一句的句型又用了一遍，easy 换成了比较级 harder，变得更难。firefighter 消防员，fire 加 fighter，和火战斗的人。put out 扑灭，这个词组再次出现，说明它是高频考点。完整翻译。这让消防员更难扑灭这些山火。",
+        "speedRatio": 0.88,
+        "visualCues": [
+          {
+            "id": "P05-S01-reading",
+            "kind": "sentence",
+            "refId": "P05-S01",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P05-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S01",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P05-S01-translation",
+            "kind": "translation",
+            "refId": "P05-S01",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P05-S02-reading",
+            "kind": "sentence",
+            "refId": "P05-S02",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P05-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S02",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P05-S02-translation",
+            "kind": "translation",
+            "refId": "P05-S02",
+            "spokenCue": "完整翻译"
+          },
+          {
+            "id": "P05-S03-reading",
+            "kind": "sentence",
+            "refId": "P05-S03",
+            "spokenCue": "开始朗读"
+          },
+          {
+            "id": "P05-S03-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S03",
+            "spokenCue": "重点讲解"
+          },
+          {
+            "id": "P05-S03-translation",
+            "kind": "translation",
+            "refId": "P05-S03",
+            "spokenCue": "完整翻译"
+          }
+        ],
+        "actualDurationMs": 127320
+      },
+      {
+        "id": "06",
+        "kind": "reading-questions",
+        "text": "第一题现在看题目。Bushfires are common in Australia because it is hot and dry. 题干意思是：山火在澳大利亚很常见，因为那里炎热干燥。判断题只有两个选项：A True，表示说法正确；B False，表示说法错误。正确答案是A。定位词是 Australia 澳大利亚。原文第一段说，这类火在炎热干燥的地区很常见，并且明确把澳大利亚列进了举例里，题干的说法与原文完全一致，所以是 True。第一题原文位置。These fires are common in hot and dry places, like Australia, Africa and parts of the US. 依据句已用黄色标出，Australia 就在炎热干燥地区的列举当中，第一题判断为 True。第二题现在看题目。Bushfires are always bad for trees and animals because they burn everything. 题干意思是：山火对树木和动物总是有害的，因为它们烧毁一切。正确答案是B。做判断题要特别警惕 always 总是、everything 一切，这类绝对化的用词。原文第三段告诉我们，山火会烧掉杂草、杀死对树木有害的昆虫，为新植物腾出更多空间，也让阳光照到地面，这对动物有好处。可见山火并不是总在烧毁一切，它对自然也有有利的一面，题干说法错误，选 False。第二题原文位置。It makes more space for new plants to grow. This is good for animals because they can find new food and make new homes. 两处依据句都用黄色标出，山火对自然有利的一面清清楚楚，所以第二题是 False。第三题现在看题目。Bushfires can be started by people and climate change. 题干意思是：山火可能由人和气候变化引发。正确答案是B。这道题要把题干拆成两半来核对。前一半，can be started by people 人们可能引发山火，原文第四段有原话支持，这一半是对的。后一半，climate change 气候变化引发山火，原文第五段明确告诉我们，气候变化不会引发山火，只会让山火变得更大。并列表述只要有一半不符合原文，整句就要判为 False，所以第三题选 B。第三题原文位置。Climate change doesn't start bushfires, but it makes them larger. 依据句已用黄色标出，气候变化不引发山火，第三题是 False。",
+        "speedRatio": 0.84,
+        "visualCues": [
+          {
+            "id": "Q01-question",
+            "kind": "question",
+            "refId": "Q01",
+            "spokenCue": "第一题现在看题目",
+            "asrMatchText": "第一题现在看题目"
+          },
+          {
+            "id": "Q01-answer",
+            "kind": "answer-reveal",
+            "refId": "Q01",
+            "spokenCue": "第一题答案揭晓",
+            "asrMatchText": "正确答案是A"
+          },
+          {
+            "id": "Q01-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q01",
+            "spokenCue": "第一题原文位置",
+            "asrMatchText": "This fires are common"
+          },
+          {
+            "id": "Q02-question",
+            "kind": "question",
+            "refId": "Q02",
+            "spokenCue": "第二题现在看题目",
+            "asrMatchText": "第二题现在看题目"
+          },
+          {
+            "id": "Q02-answer",
+            "kind": "answer-reveal",
+            "refId": "Q02",
+            "spokenCue": "第二题答案揭晓",
+            "asrMatchText": "正确答案是B"
+          },
+          {
+            "id": "Q02-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q02",
+            "spokenCue": "第二题原文位置",
+            "asrMatchText": "It makes more space for new plants"
+          },
+          {
+            "id": "Q03-question",
+            "kind": "question",
+            "refId": "Q03",
+            "spokenCue": "第三题现在看题目",
+            "asrMatchText": "第三题现在看题目"
+          },
+          {
+            "id": "Q03-answer",
+            "kind": "answer-reveal",
+            "refId": "Q03",
+            "spokenCue": "第三题答案揭晓",
+            "asrMatchText": "正确答案是B"
+          },
+          {
+            "id": "Q03-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q03",
+            "spokenCue": "第三题原文位置",
+            "asrMatchText": "Climate change doesn't start"
+          }
+        ],
+        "actualDurationMs": 197952
+      },
+      {
+        "id": "07",
+        "kind": "reading-questions",
+        "text": "第四题现在看题目。List one natural way that bushfires can start. 题干意思是：请列举一种山火自然发生的方式。这是一道简答题，没有选项，请你先想一想：山火会怎样自然发生？参考答案是：Bushfires can start when lightning strikes dry plants. 山火可以在闪电击中干燥植物的时候发生。定位词是 natural 自然的。回到第二段第一句，such as 后面引出的例子 when lightning strikes dry plants，当闪电击中干燥的植物，就是题目要找的答案。简答题要用完整的英文句子作答，把 when 从句包含进去。第四题原文位置。Bushfires can start naturally, such as when lightning strikes dry plants. 依据句已用黄色标出，such as 之后的例子就是本题的答案。第五题现在看题目。What makes it easy for bushfires to get started and to spread? 题干意思是：是什么让山火容易发生并蔓延？参考答案是：Hotter summers and stronger winds make it easy for fires to get started and to spread. 更热的夏天和更强的风，使山火容易发生并蔓延。这道题定位非常直接：题干里的 get started and to spread，和原文第五段第二句几乎一模一样。答案就是这句话开头的原因部分，更热的夏天和更强的风。回答时注意用 hotter 和 stronger 这两个比较级。第五题原文位置。That's because hotter summers and stronger winds make it easy for fires to get started and to spread. 依据句已用黄色标出，答案就是这一句的主语。第六题现在看题目。Why are bushfires part of a natural cycle? 题干意思是：为什么说山火是自然循环的一部分？参考答案是：Because bushfires burn grass and kill insects that are bad for trees, and make more space and sunlight for new plants, which is good for animals. 因为山火烧掉杂草、杀死对树木有害的昆虫，并为新植物腾出空间和阳光，这对动物有好处。这是一道归纳题，答案不能从某一句话里直接抄到，要把第三段的因果链串起来：山火烧掉杂草、杀死害虫，腾出更多空间和阳光，新植物得以生长，动物也能找到新的食物和家园。回答时用 Because 开头，把这条因果链完整说出来。第六题原文位置。When a bushfire starts, it burns grass and kills insects that are bad for trees. It makes more space for new plants to grow. This is good for animals because they can find new food and make new homes. 依据句已用黄色标出，连起来就是山火属于自然循环的完整原因。最后做个小结。这篇课文告诉我们：山火是丛林里自然发生的火，常见于澳大利亚等炎热干燥的地区；它可以由闪电自然引发，是自然循环的一部分，能为新植物腾出空间、带来阳光；但山火也可能由人引发，比如没有熄灭的篝火；气候变化虽然不引发山火，却让它更大、更难扑灭。六道题的答案：第一题 True；第二题 False，警惕 always 和 everything 这样的绝对词；第三题 False，气候变化不引发山火；第四题，闪电击中干燥植物；第五题，更热的夏天和更强的风；第六题，山火烧掉害虫、腾出空间和阳光，让自然更新。语法上重点记住 can be started by 被动语态，和 make it easy for something to do 形式宾语句型；词汇上记住 put out 扑灭、spread 蔓延、believe it or not 信不信由你。以上就是本节课的全部内容，我们下节课再见。",
+        "speedRatio": 0.84,
+        "visualCues": [
+          {
+            "id": "Q04-question",
+            "kind": "question",
+            "refId": "Q04",
+            "spokenCue": "第四题现在看题目",
+            "asrMatchText": "第四题现在看题目"
+          },
+          {
+            "id": "Q04-answer",
+            "kind": "answer-reveal",
+            "refId": "Q04",
+            "spokenCue": "第四题参考答案",
+            "asrMatchText": "参考答案是"
+          },
+          {
+            "id": "Q04-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q04",
+            "spokenCue": "第四题原文位置",
+            "asrMatchText": "such as when lightning strikes"
+          },
+          {
+            "id": "Q05-question",
+            "kind": "question",
+            "refId": "Q05",
+            "spokenCue": "第五题现在看题目",
+            "asrMatchText": "第五题现在看题目"
+          },
+          {
+            "id": "Q05-answer",
+            "kind": "answer-reveal",
+            "refId": "Q05",
+            "spokenCue": "第五题参考答案",
+            "asrMatchText": "参考答案是"
+          },
+          {
+            "id": "Q05-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q05",
+            "spokenCue": "第五题原文位置",
+            "asrMatchText": "第五题原文位置"
+          },
+          {
+            "id": "Q06-question",
+            "kind": "question",
+            "refId": "Q06",
+            "spokenCue": "第六题现在看题目",
+            "asrMatchText": "第六题现在看题目"
+          },
+          {
+            "id": "Q06-answer",
+            "kind": "answer-reveal",
+            "refId": "Q06",
+            "spokenCue": "第六题参考答案",
+            "asrMatchText": "参考答案是"
+          },
+          {
+            "id": "Q06-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q06",
+            "spokenCue": "第六题原文位置",
+            "asrMatchText": "it burns grass and kills insects"
+          },
+          {
+            "id": "07-summary",
+            "kind": "summary-card",
+            "refId": "lesson",
+            "spokenCue": "最后做个小结",
+            "asrMatchText": "最后做个小节"
+          }
+        ],
+        "actualDurationMs": 300912
+      }
+    ],
+    "deliveryMode": "questions-after-reading",
+    "introPanels": {
+      "taskLines": [
+        "认识丛林山火：定义、成因与利弊",
+        "逐句精读五个段落，重点学被动语态与 make it 句型",
+        "完成三道判断题和三道简答题"
+      ],
+      "structure": [
+        {
+          "paragraphId": "P01",
+          "summary": "山火的定义和常见地区"
+        },
+        {
+          "paragraphId": "P02",
+          "summary": "自然成因：闪电；自然循环的一部分"
+        },
+        {
+          "paragraphId": "P03",
+          "summary": "山火对自然的三个好处"
+        },
+        {
+          "paragraphId": "P04",
+          "summary": "人为成因：篝火没有熄灭"
+        },
+        {
+          "paragraphId": "P05",
+          "summary": "气候变化让山火更大、更难扑灭"
+        }
+      ]
+    }
+  },
+  "timeline": {
+    "segments": [
+      {
+        "id": "00",
+        "kind": "reading-intro",
+        "startFrame": 0,
+        "endFrame": 1848,
+        "durationFrames": 1848,
+        "durationMs": 61608,
+        "audioDurationMs": 61608,
+        "audioSrc": "audio/english-reading/all-about-bushfires/00.mp3",
+        "cues": [
+          {
+            "id": "00-title",
+            "kind": "title-card",
+            "refId": "lesson",
+            "matchText": "课程标题",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "00-task",
+            "kind": "task-overview",
+            "refId": "lesson",
+            "matchText": "任务说明",
+            "startMs": 15700,
+            "startFrame": 471,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "00-structure",
+            "kind": "structure-overview",
+            "refId": "lesson",
+            "matchText": "文章结构",
+            "startMs": 34860,
+            "startFrame": 1046,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "01",
+        "kind": "reading-paragraph",
+        "startFrame": 1848,
+        "endFrame": 4112,
+        "durationFrames": 2264,
+        "durationMs": 75456,
+        "audioDurationMs": 75456,
+        "audioSrc": "audio/english-reading/all-about-bushfires/01.mp3",
+        "cues": [
+          {
+            "id": "P01-S01-reading",
+            "kind": "sentence",
+            "refId": "P01-S01",
+            "matchText": "开始朗读",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P01-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P01-S01",
+            "matchText": "重点讲解",
+            "startMs": 5300,
+            "startFrame": 159,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P01-S01-translation",
+            "kind": "translation",
+            "refId": "P01-S01",
+            "matchText": "完整翻译",
+            "startMs": 30720,
+            "startFrame": 922,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P01-S02-reading",
+            "kind": "sentence",
+            "refId": "P01-S02",
+            "matchText": "开始朗读",
+            "startMs": 35300,
+            "startFrame": 1059,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P01-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P01-S02",
+            "matchText": "重点讲解",
+            "startMs": 44860,
+            "startFrame": 1346,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P01-S02-translation",
+            "kind": "translation",
+            "refId": "P01-S02",
+            "matchText": "完整翻译",
+            "startMs": 65560,
+            "startFrame": 1967,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "02",
+        "kind": "reading-paragraph",
+        "startFrame": 4112,
+        "endFrame": 6296,
+        "durationFrames": 2184,
+        "durationMs": 72792,
+        "audioDurationMs": 72792,
+        "audioSrc": "audio/english-reading/all-about-bushfires/02.mp3",
+        "cues": [
+          {
+            "id": "P02-S01-reading",
+            "kind": "sentence",
+            "refId": "P02-S01",
+            "matchText": "开始朗读",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P02-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P02-S01",
+            "matchText": "重点讲解",
+            "startMs": 7720,
+            "startFrame": 232,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P02-S01-translation",
+            "kind": "translation",
+            "refId": "P02-S01",
+            "matchText": "完整翻译",
+            "startMs": 31620,
+            "startFrame": 949,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P02-S02-reading",
+            "kind": "sentence",
+            "refId": "P02-S02",
+            "matchText": "开始朗读",
+            "startMs": 39000,
+            "startFrame": 1170,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P02-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P02-S02",
+            "matchText": "重点讲解",
+            "startMs": 45560,
+            "startFrame": 1367,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P02-S02-translation",
+            "kind": "translation",
+            "refId": "P02-S02",
+            "matchText": "完整翻译",
+            "startMs": 65860,
+            "startFrame": 1976,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "03",
+        "kind": "reading-paragraph",
+        "startFrame": 6296,
+        "endFrame": 10617,
+        "durationFrames": 4321,
+        "durationMs": 144048,
+        "audioDurationMs": 144048,
+        "audioSrc": "audio/english-reading/all-about-bushfires/03.mp3",
+        "cues": [
+          {
+            "id": "P03-S01-reading",
+            "kind": "sentence",
+            "refId": "P03-S01",
+            "matchText": "开始朗读",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S01",
+            "matchText": "重点讲解",
+            "startMs": 7500,
+            "startFrame": 225,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S01-translation",
+            "kind": "translation",
+            "refId": "P03-S01",
+            "matchText": "完整翻译",
+            "startMs": 39900,
+            "startFrame": 1197,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S02-reading",
+            "kind": "sentence",
+            "refId": "P03-S02",
+            "matchText": "开始朗读",
+            "startMs": 47500,
+            "startFrame": 1425,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S02",
+            "matchText": "重点讲解",
+            "startMs": 52820,
+            "startFrame": 1585,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S02-translation",
+            "kind": "translation",
+            "refId": "P03-S02",
+            "matchText": "完整翻译",
+            "startMs": 75980,
+            "startFrame": 2279,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S03-reading",
+            "kind": "sentence",
+            "refId": "P03-S03",
+            "matchText": "开始朗读",
+            "startMs": 81580,
+            "startFrame": 2447,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S03-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S03",
+            "matchText": "重点讲解",
+            "startMs": 87380,
+            "startFrame": 2621,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S03-translation",
+            "kind": "translation",
+            "refId": "P03-S03",
+            "matchText": "完整翻译",
+            "startMs": 102240,
+            "startFrame": 3067,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S04-reading",
+            "kind": "sentence",
+            "refId": "P03-S04",
+            "matchText": "开始朗读",
+            "startMs": 107100,
+            "startFrame": 3213,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S04-teaching",
+            "kind": "teaching-panel",
+            "refId": "P03-S04",
+            "matchText": "重点讲解",
+            "startMs": 114320,
+            "startFrame": 3430,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P03-S04-translation",
+            "kind": "translation",
+            "refId": "P03-S04",
+            "matchText": "完整翻译",
+            "startMs": 135400,
+            "startFrame": 4062,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "04",
+        "kind": "reading-paragraph",
+        "startFrame": 10617,
+        "endFrame": 13423,
+        "durationFrames": 2806,
+        "durationMs": 93528,
+        "audioDurationMs": 93528,
+        "audioSrc": "audio/english-reading/all-about-bushfires/04.mp3",
+        "cues": [
+          {
+            "id": "P04-S01-reading",
+            "kind": "sentence",
+            "refId": "P04-S01",
+            "matchText": "开始朗读",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P04-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P04-S01",
+            "matchText": "重点讲解",
+            "startMs": 5640,
+            "startFrame": 169,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P04-S01-translation",
+            "kind": "translation",
+            "refId": "P04-S01",
+            "matchText": "完整翻译",
+            "startMs": 40520,
+            "startFrame": 1216,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P04-S02-reading",
+            "kind": "sentence",
+            "refId": "P04-S02",
+            "matchText": "开始朗读",
+            "startMs": 46180,
+            "startFrame": 1385,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P04-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P04-S02",
+            "matchText": "重点讲解",
+            "startMs": 54900,
+            "startFrame": 1647,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P04-S02-translation",
+            "kind": "translation",
+            "refId": "P04-S02",
+            "matchText": "例如，当有人没有正确熄灭",
+            "startMs": 86760,
+            "startFrame": 2603,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "05",
+        "kind": "reading-paragraph",
+        "startFrame": 13423,
+        "endFrame": 17243,
+        "durationFrames": 3820,
+        "durationMs": 127320,
+        "audioDurationMs": 127320,
+        "audioSrc": "audio/english-reading/all-about-bushfires/05.mp3",
+        "cues": [
+          {
+            "id": "P05-S01-reading",
+            "kind": "sentence",
+            "refId": "P05-S01",
+            "matchText": "开始朗读",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S01-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S01",
+            "matchText": "重点讲解",
+            "startMs": 7020,
+            "startFrame": 211,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S01-translation",
+            "kind": "translation",
+            "refId": "P05-S01",
+            "matchText": "完整翻译",
+            "startMs": 30000,
+            "startFrame": 900,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S02-reading",
+            "kind": "sentence",
+            "refId": "P05-S02",
+            "matchText": "开始朗读",
+            "startMs": 37440,
+            "startFrame": 1123,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S02-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S02",
+            "matchText": "重点讲解",
+            "startMs": 46520,
+            "startFrame": 1396,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S02-translation",
+            "kind": "translation",
+            "refId": "P05-S02",
+            "matchText": "完整翻译",
+            "startMs": 86780,
+            "startFrame": 2603,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S03-reading",
+            "kind": "sentence",
+            "refId": "P05-S03",
+            "matchText": "开始朗读",
+            "startMs": 94680,
+            "startFrame": 2840,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S03-teaching",
+            "kind": "teaching-panel",
+            "refId": "P05-S03",
+            "matchText": "重点讲解",
+            "startMs": 101200,
+            "startFrame": 3036,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "P05-S03-translation",
+            "kind": "translation",
+            "refId": "P05-S03",
+            "matchText": "完整翻译",
+            "startMs": 121940,
+            "startFrame": 3658,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "06",
+        "kind": "reading-questions",
+        "startFrame": 17243,
+        "endFrame": 23182,
+        "durationFrames": 5939,
+        "durationMs": 197952,
+        "audioDurationMs": 197952,
+        "audioSrc": "audio/english-reading/all-about-bushfires/06.mp3",
+        "cues": [
+          {
+            "id": "Q01-question",
+            "kind": "question",
+            "refId": "Q01",
+            "matchText": "第一题现在看题目",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q01-answer",
+            "kind": "answer-reveal",
+            "refId": "Q01",
+            "matchText": "正确答案是A",
+            "startMs": 22860,
+            "startFrame": 686,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q01-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q01",
+            "matchText": "This fires are common",
+            "startMs": 43960,
+            "startFrame": 1319,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q02-question",
+            "kind": "question",
+            "refId": "Q02",
+            "matchText": "第二题现在看题目",
+            "startMs": 62160,
+            "startFrame": 1865,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q02-answer",
+            "kind": "answer-reveal",
+            "refId": "Q02",
+            "matchText": "正确答案是B",
+            "startMs": 78240,
+            "startFrame": 2347,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q02-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q02",
+            "matchText": "It makes more space for new plants",
+            "startMs": 114900,
+            "startFrame": 3447,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q03-question",
+            "kind": "question",
+            "refId": "Q03",
+            "matchText": "第三题现在看题目",
+            "startMs": 133240,
+            "startFrame": 3997,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q03-answer",
+            "kind": "answer-reveal",
+            "refId": "Q03",
+            "matchText": "正确答案是B",
+            "startMs": 145400,
+            "startFrame": 4362,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q03-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q03",
+            "matchText": "Climate change doesn't start",
+            "startMs": 185540,
+            "startFrame": 5566,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      },
+      {
+        "id": "07",
+        "kind": "reading-questions",
+        "startFrame": 23182,
+        "endFrame": 32209,
+        "durationFrames": 9027,
+        "durationMs": 300912,
+        "audioDurationMs": 300912,
+        "audioSrc": "audio/english-reading/all-about-bushfires/07.mp3",
+        "cues": [
+          {
+            "id": "Q04-question",
+            "kind": "question",
+            "refId": "Q04",
+            "matchText": "第四题现在看题目",
+            "startMs": 0,
+            "startFrame": 0,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q04-answer",
+            "kind": "answer-reveal",
+            "refId": "Q04",
+            "matchText": "参考答案是",
+            "startMs": 19520,
+            "startFrame": 586,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q04-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q04",
+            "matchText": "such as when lightning strikes",
+            "startMs": 57920,
+            "startFrame": 1738,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q05-question",
+            "kind": "question",
+            "refId": "Q05",
+            "matchText": "第五题现在看题目",
+            "startMs": 68640,
+            "startFrame": 2059,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q05-answer",
+            "kind": "answer-reveal",
+            "refId": "Q05",
+            "matchText": "参考答案是",
+            "startMs": 81720,
+            "startFrame": 2452,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q05-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q05",
+            "matchText": "第五题原文位置",
+            "startMs": 118140,
+            "startFrame": 3544,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q06-question",
+            "kind": "question",
+            "refId": "Q06",
+            "matchText": "第六题现在看题目",
+            "startMs": 132680,
+            "startFrame": 3980,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q06-answer",
+            "kind": "answer-reveal",
+            "refId": "Q06",
+            "matchText": "参考答案是",
+            "startMs": 145620,
+            "startFrame": 4369,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "Q06-evidence",
+            "kind": "evidence-dialog",
+            "refId": "Q06",
+            "matchText": "it burns grass and kills insects",
+            "startMs": 199700,
+            "startFrame": 5991,
+            "matchMethod": "normalized-exact"
+          },
+          {
+            "id": "07-summary",
+            "kind": "summary-card",
+            "refId": "lesson",
+            "matchText": "最后做个小节",
+            "startMs": 221200,
+            "startFrame": 6636,
+            "matchMethod": "normalized-exact"
+          }
+        ]
+      }
+    ]
+  },
+  "source": {
+    "lesson": "tmp/english-reading/all-about-bushfires/lesson.json",
+    "syncMap": "tmp/english-reading/all-about-bushfires/sync-map.json",
+    "audioDirectory": "public/audio/english-reading/all-about-bushfires"
+  }
+}

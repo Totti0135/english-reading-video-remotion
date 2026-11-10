@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "slug": "all-about-bushfires",
+  "fps": 30,
+  "sourceLesson": "tmp/english-reading/all-about-bushfires/lesson.json",
+  "generatedAt": "2026-09-02T13:11:09.135Z",
+  "segments": [
+    {
+      "id": "00",
+      "kind": "reading-intro",
+      "durationMs": 61608,
+      "durationFrames": 1848,
+      "cues": [
+        {
+          "id": "00-title",
+          "kind": "title-card",
+          "refId": "lesson",
+          "matchText": "课程标题",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "00-task",
+          "kind": "task-overview",
+          "refId": "lesson",
+          "matchText": "任务说明",
+          "startMs": 15700,
+          "startFrame": 471,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "00-structure",
+          "kind": "structure-overview",
+          "refId": "lesson",
+          "matchText": "文章结构",
+          "startMs": 34860,
+          "startFrame": 1046,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "kind": "reading-paragraph",
+      "durationMs": 75456,
+      "durationFrames": 2264,
+      "cues": [
+        {
+          "id": "P01-S01-reading",
+          "kind": "sentence",
+          "refId": "P01-S01",
+          "matchText": "开始朗读",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P01-S01-teaching",
+          "kind": "teaching-panel",
+          "refId": "P01-S01",
+          "matchText": "重点讲解",
+          "startMs": 5300,
+          "startFrame": 159,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P01-S01-translation",
+          "kind": "translation",
+          "refId": "P01-S01",
+          "matchText": "完整翻译",
+          "startMs": 30720,
+          "startFrame": 922,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P01-S02-reading",
+          "kind": "sentence",
+          "refId": "P01-S02",
+          "matchText": "开始朗读",
+          "startMs": 35300,
+          "startFrame": 1059,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P01-S02-teaching",
+          "kind": "teaching-panel",
+          "refId": "P01-S02",
+          "matchText": "重点讲解",
+          "startMs": 44860,
+          "startFrame": 1346,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P01-S02-translation",
+          "kind": "translation",
+          "refId": "P01-S02",
+          "matchText": "完整翻译",
+          "startMs": 65560,
+          "startFrame": 1967,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "kind": "reading-paragraph",
+      "durationMs": 72792,
+      "durationFrames": 2184,
+      "cues": [
+        {
+          "id": "P02-S01-reading",
+          "kind": "sentence",
+          "refId": "P02-S01",
+          "matchText": "开始朗读",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P02-S01-teaching",
+          "kind": "teaching-panel",
+          "refId": "P02-S01",
+          "matchText": "重点讲解",
+          "startMs": 7720,
+          "startFrame": 232,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P02-S01-translation",
+          "kind": "translation",
+          "refId": "P02-S01",
+          "matchText": "完整翻译",
+          "startMs": 31620,
+          "startFrame": 949,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P02-S02-reading",
+          "kind": "sentence",
+          "refId": "P02-S02",
+          "matchText": "开始朗读",
+          "startMs": 39000,
+          "startFrame": 1170,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P02-S02-teaching",
+          "kind": "teaching-panel",
+          "refId": "P02-S02",
+          "matchText": "重点讲解",
+          "startMs": 45560,
+          "startFrame": 1367,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P02-S02-translation",
+          "kind": "translation",
+          "refId": "P02-S02",
+          "matchText": "完整翻译",
+          "startMs": 65860,
+          "startFrame": 1976,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "kind": "reading-paragraph",
+      "durationMs": 144048,
+      "durationFrames": 4321,
+      "cues": [
+        {
+          "id": "P03-S01-reading",
+          "kind": "sentence",
+          "refId": "P03-S01",
+          "matchText": "开始朗读",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S01-teaching",
+          "kind": "teaching-panel",
+          "refId": "P03-S01",
+          "matchText": "重点讲解",
+          "startMs": 7500,
+          "startFrame": 225,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S01-translation",
+          "kind": "translation",
+          "refId": "P03-S01",
+          "matchText": "完整翻译",
+          "startMs": 39900,
+          "startFrame": 1197,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S02-reading",
+          "kind": "sentence",
+          "refId": "P03-S02",
+          "matchText": "开始朗读",
+          "startMs": 47500,
+          "startFrame": 1425,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S02-teaching",
+          "kind": "teaching-panel",
+          "refId": "P03-S02",
+          "matchText": "重点讲解",
+          "startMs": 52820,
+          "startFrame": 1585,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S02-translation",
+          "kind": "translation",
+          "refId": "P03-S02",
+          "matchText": "完整翻译",
+          "startMs": 75980,
+          "startFrame": 2279,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S03-reading",
+          "kind": "sentence",
+          "refId": "P03-S03",
+          "matchText": "开始朗读",
+          "startMs": 81580,
+          "startFrame": 2447,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S03-teaching",
+          "kind": "teaching-panel",
+          "refId": "P03-S03",
+          "matchText": "重点讲解",
+          "startMs": 87380,
+          "startFrame": 2621,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S03-translation",
+          "kind": "translation",
+          "refId": "P03-S03",
+          "matchText": "完整翻译",
+          "startMs": 102240,
+          "startFrame": 3067,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S04-reading",
+          "kind": "sentence",
+          "refId": "P03-S04",
+          "matchText": "开始朗读",
+          "startMs": 107100,
+          "startFrame": 3213,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S04-teaching",
+          "kind": "teaching-panel",
+          "refId": "P03-S04",
+          "matchText": "重点讲解",
+          "startMs": 114320,
+          "startFrame": 3430,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P03-S04-translation",
+          "kind": "translation",
+          "refId": "P03-S04",
+          "matchText": "完整翻译",
+          "startMs": 135400,
+          "startFrame": 4062,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "kind": "reading-paragraph",
+      "durationMs": 93528,
+      "durationFrames": 2806,
+      "cues": [
+        {
+          "id": "P04-S01-reading",
+          "kind": "sentence",
+          "refId": "P04-S01",
+          "matchText": "开始朗读",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P04-S01-teaching",
+          "kind": "teaching-panel",
+          "refId": "P04-S01",
+          "matchText": "重点讲解",
+          "startMs": 5640,
+          "startFrame": 169,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P04-S01-translation",
+          "kind": "translation",
+          "refId": "P04-S01",
+          "matchText": "完整翻译",
+          "startMs": 40520,
+          "startFrame": 1216,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P04-S02-reading",
+          "kind": "sentence",
+          "refId": "P04-S02",
+          "matchText": "开始朗读",
+          "startMs": 46180,
+          "startFrame": 1385,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P04-S02-teaching",
+          "kind": "teaching-panel",
+          "refId": "P04-S02",
+          "matchText": "重点讲解",
+          "startMs": 54900,
+          "startFrame": 1647,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P04-S02-translation",
+          "kind": "translation",
+          "refId": "P04-S02",
+          "matchText": "例如，当有人没有正确熄灭",
+          "startMs": 86760,
+          "startFrame": 2603,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "kind": "reading-paragraph",
+      "durationMs": 127320,
+      "durationFrames": 3820,
+      "cues": [
+        {
+          "id": "P05-S01-reading",
+          "kind": "sentence",
+          "refId": "P05-S01",
+          "matchText": "开始朗读",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S01-teaching",
+          "kind": "teaching-panel",
+          "refId": "P05-S01",
+          "matchText": "重点讲解",
+          "startMs": 7020,
+          "startFrame": 211,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S01-translation",
+          "kind": "translation",
+          "refId": "P05-S01",
+          "matchText": "完整翻译",
+          "startMs": 30000,
+          "startFrame": 900,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S02-reading",
+          "kind": "sentence",
+          "refId": "P05-S02",
+          "matchText": "开始朗读",
+          "startMs": 37440,
+          "startFrame": 1123,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S02-teaching",
+          "kind": "teaching-panel",
+          "refId": "P05-S02",
+          "matchText": "重点讲解",
+          "startMs": 46520,
+          "startFrame": 1396,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S02-translation",
+          "kind": "translation",
+          "refId": "P05-S02",
+          "matchText": "完整翻译",
+          "startMs": 86780,
+          "startFrame": 2603,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S03-reading",
+          "kind": "sentence",
+          "refId": "P05-S03",
+          "matchText": "开始朗读",
+          "startMs": 94680,
+          "startFrame": 2840,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S03-teaching",
+          "kind": "teaching-panel",
+          "refId": "P05-S03",
+          "matchText": "重点讲解",
+          "startMs": 101200,
+          "startFrame": 3036,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "P05-S03-translation",
+          "kind": "translation",
+          "refId": "P05-S03",
+          "matchText": "完整翻译",
+          "startMs": 121940,
+          "startFrame": 3658,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "kind": "reading-questions",
+      "durationMs": 197952,
+      "durationFrames": 5939,
+      "cues": [
+        {
+          "id": "Q01-question",
+          "kind": "question",
+          "refId": "Q01",
+          "matchText": "第一题现在看题目",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q01-answer",
+          "kind": "answer-reveal",
+          "refId": "Q01",
+          "matchText": "正确答案是A",
+          "startMs": 22860,
+          "startFrame": 686,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q01-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q01",
+          "matchText": "This fires are common",
+          "startMs": 43960,
+          "startFrame": 1319,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q02-question",
+          "kind": "question",
+          "refId": "Q02",
+          "matchText": "第二题现在看题目",
+          "startMs": 62160,
+          "startFrame": 1865,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q02-answer",
+          "kind": "answer-reveal",
+          "refId": "Q02",
+          "matchText": "正确答案是B",
+          "startMs": 78240,
+          "startFrame": 2347,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q02-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q02",
+          "matchText": "It makes more space for new plants",
+          "startMs": 114900,
+          "startFrame": 3447,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q03-question",
+          "kind": "question",
+          "refId": "Q03",
+          "matchText": "第三题现在看题目",
+          "startMs": 133240,
+          "startFrame": 3997,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q03-answer",
+          "kind": "answer-reveal",
+          "refId": "Q03",
+          "matchText": "正确答案是B",
+          "startMs": 145400,
+          "startFrame": 4362,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q03-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q03",
+          "matchText": "Climate change doesn't start",
+          "startMs": 185540,
+          "startFrame": 5566,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "kind": "reading-questions",
+      "durationMs": 300912,
+      "durationFrames": 9027,
+      "cues": [
+        {
+          "id": "Q04-question",
+          "kind": "question",
+          "refId": "Q04",
+          "matchText": "第四题现在看题目",
+          "startMs": 0,
+          "startFrame": 0,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q04-answer",
+          "kind": "answer-reveal",
+          "refId": "Q04",
+          "matchText": "参考答案是",
+          "startMs": 19520,
+          "startFrame": 586,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q04-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q04",
+          "matchText": "such as when lightning strikes",
+          "startMs": 57920,
+          "startFrame": 1738,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q05-question",
+          "kind": "question",
+          "refId": "Q05",
+          "matchText": "第五题现在看题目",
+          "startMs": 68640,
+          "startFrame": 2059,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q05-answer",
+          "kind": "answer-reveal",
+          "refId": "Q05",
+          "matchText": "参考答案是",
+          "startMs": 81720,
+          "startFrame": 2452,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q05-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q05",
+          "matchText": "第五题原文位置",
+          "startMs": 118140,
+          "startFrame": 3544,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q06-question",
+          "kind": "question",
+          "refId": "Q06",
+          "matchText": "第六题现在看题目",
+          "startMs": 132680,
+          "startFrame": 3980,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q06-answer",
+          "kind": "answer-reveal",
+          "refId": "Q06",
+          "matchText": "参考答案是",
+          "startMs": 145620,
+          "startFrame": 4369,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "Q06-evidence",
+          "kind": "evidence-dialog",
+          "refId": "Q06",
+          "matchText": "it burns grass and kills insects",
+          "startMs": 199700,
+          "startFrame": 5991,
+          "matchMethod": "normalized-exact"
+        },
+        {
+          "id": "07-summary",
+          "kind": "summary-card",
+          "refId": "lesson",
+          "matchText": "最后做个小节",
+          "startMs": 221200,
+          "startFrame": 6636,
+          "matchMethod": "normalized-exact"
+        }
+      ]
+    }
+  ]
+}

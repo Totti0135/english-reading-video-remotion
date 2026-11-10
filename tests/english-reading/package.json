@@ -1,0 +1,10 @@
+{
+  "name": "english-reading-contract-tests",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check ../../src/english-reading/model/exercise-contract.mjs && node --check ../../src/english-reading/runtime/exercise-timeline.mjs && node --check ../../scripts/validate-english-reading.mjs",
+    "test": "node --test exercise-contract.test.mjs exercise-timeline.test.mjs preflight-cli.test.mjs"
+  }
+}

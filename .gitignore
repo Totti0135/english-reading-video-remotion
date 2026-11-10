@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+tmp/*/asr
+tmp/*/qc
+tmp/*/generation-manifest.json
+out
+.env
+.env.local
+.claude/skills/.english-reading-remotion-sync.json
